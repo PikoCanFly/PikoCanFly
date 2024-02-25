@@ -9,6 +9,7 @@
 A language learning app built with Django. Users can choose to learn using flashcards or they can test their knowledge through the multiple choice quizzes. The words they learn get saved into a list that they can get back to later. They could also choose to create an account.
 
 Repo: https://github.com/MaiaPiko/VOCARD-DOCKERIZED
+
 Demo:  https://vocard.onrender.com/flashcards/ - might take a minute to load 
 
 ## Fleksja:
@@ -75,6 +76,7 @@ Tutorial: https://www.youtube.com/watch?v=gwv7yqwxN1g
 The Random Wave Generator is a simple JavaScript utility that creates and renders randomized waves on a web page using Scalable Vector Graphics (SVG). This project is designed for creative purposes and can be used to generate visually appealing, dynamic wave patterns with varying amplitudes, frequencies, and phases.
 
 Repo: https://github.com/PikoCanFly/Logonimator
+
 Tutorial:  https://www.youtube.com/watch?v=jRhDakGGlGE
 
 ## Random Wave Generator:
@@ -92,13 +94,18 @@ Demo: https://voluble-duckanoo-221094.netlify.app/
 Repo: https://github.com/PikoCanFly/Bubble-Estimator-Game
 Tutorial: https://www.youtube.com/watch?v=X_uD39rsyrM
 
-Image Resizer App:
+## Image Resizer App:
 
 A very simple HTML + JS that allows users to resize images.
 
 Demo: https://fascinating-begonia-398755.netlify.app/
 Repo: https://github.com/PikoCanFly/Image-Resize-App
 
+## Always on Top Browser:
+
+A browser that always stays on top built with Electronjs.
+
+Tutorial: https://www.youtube.com/watch?v=qHrj14m51-c&t=1464s
 
 
 To be continued…  
