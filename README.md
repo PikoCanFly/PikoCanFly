@@ -1,6 +1,6 @@
-# Hi, I am Piko!
+# Hi, I am Piko! 👋
 
-## Writing code makes me feel like I can fly! 
+## Writing code makes me feel like I can fly! 🛸
 
 # Below are some of my projects that you might find interesting:
 
