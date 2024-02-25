@@ -48,12 +48,14 @@ Repo: https://github.com/MaiaPiko/r-SuggestMeABook-DataAnalysis
 The Trade Sunday Checker is a web service that allows users to check if the upcoming Sunday is a trade Sunday. It provides information about trade Sundays based on predefined dates and allows users to easily determine whether they can expect commercial activities on the next Sunday.
 
 Repo: https://github.com/MaiaPiko/TradeSundayChecker
+
 Demo: https://niedziela-handlowa.onrender.com/
 ## Pet Peeve Buster:
 
 Pet Peeve Buster is a game based on the classic game “Breakout” but instead of destroying bricks you destroy your pet-peeves with the help on an adorable Eggling named Bluey. It was created with React and ReactPixi. The purpose of its creation was to draw a smile on the faces of a friend or two and to improve my React skills. Working on this game has helped me get up close and personal with some of React's features that I have never used before, and it also allowed me to truly think about and consider my app structure. Since the game contains many elements that needed to interact with one another, and so there was a lot of variable exchange.
 
 Repo: https://github.com/MaiaPiko/ProblemBusterGame
+
 Demo: https://egglings-world.onrender.com/
 
 ## Blobster:
@@ -61,6 +63,7 @@ Demo: https://egglings-world.onrender.com/
 Blobster is a fun and interactive web development project that will guide you through the magical world of creating whimsical blob creatures using the power of mathematics, SVG, and React.js!
 
 Repo: https://github.com/PikoCanFly/blobster
+
 Demo: https://blobster.onrender.com/
 
 ## Fractal Tree Generator:
@@ -68,6 +71,7 @@ Demo: https://blobster.onrender.com/
 A JavaScript-based fractal tree generator using SVG and JS.
 
 Repo: https://github.com/PikoCanFly/fractal-tree
+
 Tutorial: https://www.youtube.com/watch?v=gwv7yqwxN1g
 
 
@@ -84,14 +88,17 @@ Tutorial:  https://www.youtube.com/watch?v=jRhDakGGlGE
 The Random Wave Generator is a simple JavaScript function that creates and renders randomized visually appealing waves with varying amplitudes, frequencies, and phases using Scalable Vector Graphics (SVG).
 
 repo: https://github.com/PikoCanFly/randomWaveGenerator
-Tutoria: https://www.youtube.com/watch?v=debPZs45m44
+
+Tutorial: https://www.youtube.com/watch?v=debPZs45m44
 
 ## Bubble Estimator Game:
 
 A game created with JS + SVG to help users get better at estimating the number of objects.
 
 Demo: https://voluble-duckanoo-221094.netlify.app/
+
 Repo: https://github.com/PikoCanFly/Bubble-Estimator-Game
+
 Tutorial: https://www.youtube.com/watch?v=X_uD39rsyrM
 
 ## Image Resizer App:
@@ -99,6 +106,7 @@ Tutorial: https://www.youtube.com/watch?v=X_uD39rsyrM
 A very simple HTML + JS that allows users to resize images.
 
 Demo: https://fascinating-begonia-398755.netlify.app/
+
 Repo: https://github.com/PikoCanFly/Image-Resize-App
 
 ## Always on Top Browser:
