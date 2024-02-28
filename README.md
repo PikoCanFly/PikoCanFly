@@ -1,8 +1,19 @@
+<p align="center"><a href="https://www.youtube.com/channel/UC8NoIbiu78iGMnh_xezgx8A"><img width="80%" alt="Piko Can Fly" src="./assets/piko-readme-header.png" /></a></p>
+
+
 # Hi, I am Piko! 👋
 
 ## Writing code makes me feel like I can fly! 🛸
 
-# Below are some of my projects that you might find interesting:
+<details>
+  <summary>
+<strong>More About me</strong>
+</summary>
+</details>
+<details>
+  <summary>
+<strong>A selection of projects</strong>
+</summary>
 
 ## Vocard:
 
@@ -117,6 +128,6 @@ Tutorial: https://www.youtube.com/watch?v=qHrj14m51-c&t=1464s
 
 
 To be continued…  
-
+</details>
 
 
