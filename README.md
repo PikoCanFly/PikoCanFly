@@ -17,7 +17,7 @@ const Piko = {
 
   <br>
 
-<a href="https://maia-mlynczak.onrender.com/">👀 view some of my projects.</a>
+<a href="https://maia-mlynczak.onrender.com/" target="_blank">👀 view some of my projects.</a>
 
 
 
