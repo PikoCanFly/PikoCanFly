@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.youtube.com/channel/UC8NoIbiu78iGMnh_xezgx8A"><img width="80%" alt="Piko Can Fly" src="./assets/piko-readme-header.png" /></a></p>
+<p align="center"><a href="https://www.youtube.com/channel/UC8NoIbiu78iGMnh_xezgx8A"><img width="80%" alt="Piko Can Fly" src="piko-header.png" /></a></p>
 
 
 # Hi, I am Piko! 👋
