@@ -9,7 +9,7 @@ const Piko = {
   interests: ["Software Development", "Problem Solving", "Design", "Creative Coding", 
   "researching", "education"],
   languages: [javaScript, Python, SQL, html, css, typescript],
-  frameworks:[Django, Reactjs, Electron],   
+  favoriteFrameworks:[  Django, React.js, Electron.js ],   
 }
 ```
 
